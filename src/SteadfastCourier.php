@@ -51,6 +51,29 @@ class SteadfastCourier
         return $response->json();
     }
 
+
+    public function checkDeliveryStatusByInvoiceId($id)
+    {
+        $response = Http::withHeaders([
+            'Api-Key' => $this->apiKey,
+            'Secret-Key' => $this->secretKey,
+            'Content-Type' => 'application/json',
+        ])->get($this->baseUrl.'/status_by_invoice/'.$id);
+
+        return $response->json();
+    }
+
+    public function checkDeliveryStatusByTrackingCode($id)
+    {
+        $response = Http::withHeaders([
+            'Api-Key' => $this->apiKey,
+            'Secret-Key' => $this->secretKey,
+            'Content-Type' => 'application/json',
+        ])->get($this->baseUrl.'/status_by_trackingcode/'.$id);
+
+        return $response->json();
+    }
+
     public function getCurrentBalance()
     {
         $response = Http::withHeaders([
