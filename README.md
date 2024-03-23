@@ -311,7 +311,7 @@ For any issues or questions related to this package, please open an issue on Git
 ## Credits
 
 - [AmadulHaque](https://github.com/AmadulHaque)
-- [All Contributors](../../contributors)
+- [Badrul Sajib](https://github.com/badrul-sajib)
 
 ## License
 
