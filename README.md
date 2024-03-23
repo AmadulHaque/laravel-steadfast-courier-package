@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/AmadulHaque/laravel-steadfast-courier-package/main/logo.png" style="width:30%;">
 </p>
 
-<h1 align="center">Laravel package for integrating with Steadfast Courier API.</h1>
+<h1 align="center">A complate Laravel package for SteadFast Courier Limited</h1>
 
 
 <p align="center" >
