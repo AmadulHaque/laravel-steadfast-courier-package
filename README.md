@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/AmadulHaque/laravel-steadfast-courier-package/blob/main/logo.png">
+  <img src="https://github.com/AmadulHaque/laravel-steadfast-courier-package/blob/main/logo.png" style="max-width: 30%;">
 </p>
 
 <h1 align="center">Laravel package for integrating with Steadfast Courier API.</h1>
