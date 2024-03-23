@@ -1,11 +1,5 @@
-
-<style>
-    .wrapper .content .package .readme img {
-        max-width: 30% !important;
-    }
-</style>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmadulHaque/laravel-steadfast-courier-package/main/logo.png" style="width:30%;">
+  <img src="https://raw.githubusercontent.com/AmadulHaque/laravel-steadfast-courier-package/main/logo.png" style="width:30% !important;">
 </p>
 
 <h1 align="center">A complate Laravel package for SteadFast Courier Limited</h1>
