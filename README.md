@@ -1,4 +1,9 @@
 
+<style>
+    .wrapper .content .package .readme img {
+        max-width: 30% !important;
+    }
+</style>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmadulHaque/laravel-steadfast-courier-package/main/logo.png" style="width:30%;">
 </p>
